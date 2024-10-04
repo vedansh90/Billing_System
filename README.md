@@ -1,1 +1,2 @@
 # Billing_System
+This C++-based billing system allows users to select and purchase multiple items seamlessly. It records item selections, calculates costs in real-time, and generates an accurate final bill at the end of the session. 
